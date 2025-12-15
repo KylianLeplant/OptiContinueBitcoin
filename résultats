@@ -1,0 +1,11 @@
+Taux de bonnes classifications :  94.4 %
+Quand il fallait prédire 1...
+90.9090909090909 % du temps le prédicteur prédit 1
+9.090909090909092 % du temps le prédicteur prédit 0
+Quand il fallait prédire 0...
+97.67441860465117 % du temps le prédicteur prédit 0
+2.3255813953488373 % du temps le prédicteur prédit 1
+[ 458.37615053 -448.54044761   66.56790006  -31.70602307  -20.02203772
+  -25.25754673]
+
+
